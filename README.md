@@ -1,2 +1,1 @@
-# github_cheatsheet
-Githubの使い方ガイド
+# Githubの使い方ガイド
