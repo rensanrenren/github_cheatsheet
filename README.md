@@ -2,6 +2,7 @@
 
 ## MARKDOWNのチートシート
 
-[Markdown記法 チートシート](https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa)
+[Markdown記法 チートシート1](https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa)
 
+[Markdown記法 チートシート２](https://qiita.com/tbpgr/items/989c6badefff69377da7)
 ## プロジェクト管理について
