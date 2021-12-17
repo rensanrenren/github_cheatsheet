@@ -12,3 +12,6 @@
 - [Githubで外部リンクを別タブで開く方法](https://qiita.com/KumanoT/items/c91390898573978fc979)
 
 ## プロジェクト管理について
+
+## ファイル管理
+- [GitHub の Git LFS 無料枠をうまくやりくりする方法](https://qiita.com/yokra9/items/ae616e1c2988dcd8cf1d)
